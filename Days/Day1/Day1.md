@@ -97,4 +97,4 @@ Your puzzle answer was `1497`.
 
 That's the right answer! You are one gold star closer to finding the sleigh keys.
 
-You have completed Day 1! You can [Share] this victory or.
+You have completed Day 1! 
