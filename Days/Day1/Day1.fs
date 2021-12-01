@@ -16,7 +16,7 @@ let ``Step 1`` () =
         |> Seq.filter id
         |> Seq.length
 
-    Assert.Equal(0, result)
+    Assert.Equal(1462, result)
 
 
 [<Fact>]
@@ -34,4 +34,4 @@ let ``Step 2`` () =
         |> Seq.filter id
         |> Seq.length
 
-    Assert.Equal(0, result)
+    Assert.Equal(1497, result)
